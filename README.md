@@ -29,6 +29,16 @@ Para cargarlas todas de una vez: menu de Tracks -> **Import csv** -> `tracks-mus
 | `13-esfuerzo.mp3` | Esfuerzo | combate, tension | C. Larkin - Strive |
 | `14-encaje.mp3` | Encaje | jefe, duelo, tension | C. Larkin - Lace |
 
+| `15-descanso-corto.mp3` | Descanso Corto | descanso, tranquilo, taberna | Persona 5 - Have a Short Rest |
+| `16-dias-sin-fin.mp3` | Dias sin Fin | tranquilo, pueblo, cotidiano | Persona 5 - Endless Days |
+| `17-beso-de-mariposa.mp3` | Beso de Mariposa | misterio, magia, onirico | Persona 5 - Butterfly Kiss |
+| `18-plan-perverso.mp3` | Plan Perverso | intriga, villano, tension | Persona 5 - Wicked Plan |
+| `19-fantasma.mp3` | Fantasma | sigilo, intriga, tension | Persona 5 - Phantom |
+| `20-dark-souls-inicio.mp3` | Dark Souls Inicio | epico, oscuro, jefe, ruinas | Dark Souls |
+| `21-casa-zelda.mp3` | Casa | descanso, hogar, tranquilo | Zelda OoT - House |
+| `22-bosque-kokiri.mp3` | Bosque Kokiri | bosque, pueblo, alegre | Zelda OoT - Kokiri Forest |
+| `23-tarde-en-konoha.mp3` | Tarde en Konoha | pueblo, tranquilo, cotidiano | Naruto - Afternoon of Konoha |
+
 ## Nombres de archivo
 
 Sin espacios ni tildes: los espacios se convierten en `%20` en la URL.
