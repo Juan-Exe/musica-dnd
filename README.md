@@ -55,6 +55,7 @@ Para cargarlas todas de una vez: menu de Tracks -> **Import csv** -> `tracks-mus
 | `17-beso-de-mariposa.mp3` | [Persona 5] Beso de Mariposa | Butterfly Kiss | Misterio, magia, sueno |
 | `18-plan-perverso.mp3` | [Persona 5] Plan Perverso | Wicked Plan | Intriga, planes del villano |
 | `19-fantasma.mp3` | [Persona 5] Fantasma | Phantom | Sigilo, espiar, colarse |
+| `24-guerreros-con-valor.mp3` | [Persona 5] Guerreros con Valor | Warriors in Valour | Combate heroico, carga final |
 
 ### Dark Souls
 
@@ -69,11 +70,18 @@ Para cargarlas todas de una vez: menu de Tracks -> **Import csv** -> `tracks-mus
 | `21-casa-zelda.mp3` | [Zelda OoT] Casa | House | Volver a la posada, hogar |
 | `22-bosque-kokiri.mp3` | [Zelda OoT] Bosque Kokiri | Kokiri Forest | Terragnoma, pueblo escondido |
 
+### The Legend of Zelda: Breath of the Wild
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `26-santuario.mp3` | [Zelda BotW] Santuario | Shrine | Ruinas antiguas, puzzles, lugares magicos |
+
 ### Naruto
 
 | Archivo | Titulo en Tracks | Pista original | Cuando usarla |
 |---|---|---|---|
 | `23-tarde-en-konoha.mp3` | [Naruto] Tarde en Konoha | Afternoon of Konoha (OST 2) | Phandalin, dia normal en el pueblo |
+| `25-tema-de-sasuke.mp3` | [Naruto] Tema de Sasuke | Sasuke's Theme (OST 2) | Villano, duelo tenso, amenaza |
 
 ## Nombres de archivo
 
