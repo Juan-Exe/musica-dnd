@@ -10,34 +10,70 @@ https://raw.githubusercontent.com/Juan-Exe/musica-dnd/main/NOMBRE.mp3
 
 Para cargarlas todas de una vez: menu de Tracks -> **Import csv** -> `tracks-musica.csv`
 
-## Pistas
+## Pistas por origen
 
-| Archivo | Titulo en Tracks | Tags | Origen |
+### El Senor de los Anillos (Howard Shore)
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
 |---|---|---|---|
-| `01-la-comarca.mp3` | La Comarca | viaje, tranquilo, pueblo, phandalin | Howard Shore - The Shire |
-| `02-bolson-cerrado.mp3` | Bolson Cerrado | taberna, pueblo, descanso | Howard Shore - Bag End |
-| `03-volver-a-casa.mp3` | Volver a Casa | emotivo, final, descanso | L. Goransson - Let's Go Home |
-| `04-lestrigones.mp3` | Lestrigones | combate, tension, monstruo | L. Goransson - Laestrygonians |
-| `05-la-prueba-del-arco.mp3` | La Prueba del Arco | jefe, epico, dragon | L. Goransson - The Trial of the Bow |
-| `06-la-bruja-del-bosque.mp3` | La Bruja del Bosque | bosque, misterio, magia | Bear McCreary - Witch of the Woods |
-| `07-recuerdos-de-madre.mp3` | Recuerdos de Madre | emotivo, triste, ritual | Bear McCreary - Memories of Mother |
-| `08-god-of-war.mp3` | God of War | jefe, epico, combate | God of War OST |
-| `09-entrar-en-pharloom.mp3` | Entrar en Pharloom | mazmorra, exploracion | C. Larkin - Enter Pharloom |
-| `10-gruta-de-musgo.mp3` | Gruta de Musgo | cueva, mazmorra, tranquilo | C. Larkin - Moss Grotto |
-| `11-bosque-de-caparazon.mp3` | Bosque de Caparazon | bosque, viaje | C. Larkin - Shellwood |
-| `12-aguas-negras.mp3` | Aguas Negras | mazmorra, oscuro, tension | C. Larkin - Bilewater |
-| `13-esfuerzo.mp3` | Esfuerzo | combate, tension | C. Larkin - Strive |
-| `14-encaje.mp3` | Encaje | jefe, duelo, tension | C. Larkin - Lace |
+| `01-la-comarca.mp3` | [LOTR] La Comarca | The Shire | Phandalin, viajes tranquilos |
+| `02-bolson-cerrado.mp3` | [LOTR] Bolson Cerrado | Bag End | Posada Rocacolina, descansos |
 
-| `15-descanso-corto.mp3` | Descanso Corto | descanso, tranquilo, taberna | Persona 5 - Have a Short Rest |
-| `16-dias-sin-fin.mp3` | Dias sin Fin | tranquilo, pueblo, cotidiano | Persona 5 - Endless Days |
-| `17-beso-de-mariposa.mp3` | Beso de Mariposa | misterio, magia, onirico | Persona 5 - Butterfly Kiss |
-| `18-plan-perverso.mp3` | Plan Perverso | intriga, villano, tension | Persona 5 - Wicked Plan |
-| `19-fantasma.mp3` | Fantasma | sigilo, intriga, tension | Persona 5 - Phantom |
-| `20-dark-souls-inicio.mp3` | Dark Souls Inicio | epico, oscuro, jefe, ruinas | Dark Souls |
-| `21-casa-zelda.mp3` | Casa | descanso, hogar, tranquilo | Zelda OoT - House |
-| `22-bosque-kokiri.mp3` | Bosque Kokiri | bosque, pueblo, alegre | Zelda OoT - Kokiri Forest |
-| `23-tarde-en-konoha.mp3` | Tarde en Konoha | pueblo, tranquilo, cotidiano | Naruto - Afternoon of Konoha |
+### La Odisea (Ludwig Goransson)
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `03-volver-a-casa.mp3` | [Odisea] Volver a Casa | Let's Go Home | Final de campana, regreso emotivo |
+| `04-lestrigones.mp3` | [Odisea] Lestrigones | Laestrygonians | Combate contra monstruos |
+| `05-la-prueba-del-arco.mp3` | [Odisea] La Prueba del Arco | The Trial of the Bow / Vengeance | Cryovain, jefe final |
+
+### God of War (Bear McCreary)
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `06-la-bruja-del-bosque.mp3` | [God of War] La Bruja del Bosque | Witch of the Woods | Terragnoma, magia de gnomos |
+| `07-recuerdos-de-madre.mp3` | [God of War] Recuerdos de Madre | Memories of Mother (feat. Eivor) | Momento triste, muerte de un PJ |
+| `08-god-of-war.mp3` | [God of War] Tema Principal | God of War (OST CD1 track 16) | Jefe epico, Cryovain |
+
+### Hollow Knight / Silksong (Christopher Larkin)
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `09-entrar-en-pharloom.mp3` | [Hollow Knight] Entrar en Pharloom | Enter Pharloom | Entrar a una mazmorra |
+| `10-gruta-de-musgo.mp3` | [Hollow Knight] Gruta de Musgo | Moss Grotto | Cuevas, Excavacion de los enanos |
+| `11-bosque-de-caparazon.mp3` | [Hollow Knight] Bosque de Caparazon | Shellwood | Bosque de Nuncainvierno |
+| `12-aguas-negras.mp3` | [Hollow Knight] Aguas Negras | Bilewater | Tumulo del Dragon, catacumbas |
+| `13-esfuerzo.mp3` | [Hollow Knight] Esfuerzo | Strive | Combate, persecucion |
+| `14-encaje.mp3` | [Hollow Knight] Encaje | Lace | Duelo contra un enemigo importante |
+
+### Persona 5 (ATLUS Sound Team)
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `15-descanso-corto.mp3` | [Persona 5] Descanso Corto | Have a Short Rest | Descanso corto, taberna |
+| `16-dias-sin-fin.mp3` | [Persona 5] Dias sin Fin | Endless Days | Phandalin cotidiano |
+| `17-beso-de-mariposa.mp3` | [Persona 5] Beso de Mariposa | Butterfly Kiss | Misterio, magia, sueno |
+| `18-plan-perverso.mp3` | [Persona 5] Plan Perverso | Wicked Plan | Intriga, planes del villano |
+| `19-fantasma.mp3` | [Persona 5] Fantasma | Phantom | Sigilo, espiar, colarse |
+
+### Dark Souls
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `20-dark-souls-inicio.mp3` | [Dark Souls] Tema de Inicio | Dark Souls intro | Alcazhacha, ruinas solemnes |
+
+### The Legend of Zelda: Ocarina of Time
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `21-casa-zelda.mp3` | [Zelda OoT] Casa | House | Volver a la posada, hogar |
+| `22-bosque-kokiri.mp3` | [Zelda OoT] Bosque Kokiri | Kokiri Forest | Terragnoma, pueblo escondido |
+
+### Naruto
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `23-tarde-en-konoha.mp3` | [Naruto] Tarde en Konoha | Afternoon of Konoha (OST 2) | Phandalin, dia normal en el pueblo |
 
 ## Nombres de archivo
 
