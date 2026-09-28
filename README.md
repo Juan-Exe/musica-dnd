@@ -83,6 +83,26 @@ Para cargarlas todas de una vez: menu de Tracks -> **Import csv** -> `tracks-mus
 | `23-tarde-en-konoha.mp3` | [Naruto] Tarde en Konoha | Afternoon of Konoha (OST 2) | Phandalin, dia normal en el pueblo |
 | `25-tema-de-sasuke.mp3` | [Naruto] Tema de Sasuke | Sasuke's Theme (OST 2) | Villano, duelo tenso, amenaza |
 
+### The Witcher 3: Wild Hunt
+
+Once pistas. Las de Percival y Percival Schuttenbach son folk con
+instrumentos de epoca; las de Mikolai Stroinski y Marcin Przybylowicz
+son las orquestales del juego.
+
+| Archivo | Titulo en Tracks | Pista original | Cuando usarla |
+|---|---|---|---|
+| `27-plata-para-monstruos.mp3` | [Witcher 3] Plata para Monstruos | Silver For Monsters | Combate contra bestias, el dragon |
+| `28-acero-para-humanos.mp3` | [Witcher 3] Acero para Humanos | ...Steel For Humans | Combate contra bandidos, la Mano Rojiza |
+| `29-el-ruisenor.mp3` | [Witcher 3] El Ruisenor | The Nightingale | Taberna animada, Rocacolina |
+| `30-capa-y-daga.mp3` | [Witcher 3] Capa y Daga | Cloak And Dagger | Colarse, espiar, sigilo |
+| `31-lazare.mp3` | [Witcher 3] Lazare | Lazare | Fiesta, celebracion en el pueblo |
+| `32-la-caceria-se-acerca.mp3` | [Witcher 3] La Caceria se Acerca | The Hunt Is Coming | Cryovain aparece, amenaza que se acerca |
+| `33-ojos-del-lobo.mp3` | [Witcher 3] Ojos del Lobo | Eyes Of The Wolf | Viajar de noche, camino peligroso |
+| `34-susurros-de-oxenfurt.mp3` | [Witcher 3] Susurros de Oxenfurt | Whispers Of Oxenfurt | Ciudad, mercado, rumores |
+| `35-ciudad-de-intrigas.mp3` | [Witcher 3] Ciudad de Intrigas | City Of Intrigues | Politica, el villano mueve ficha |
+| `36-sangre-en-los-adoquines.mp3` | [Witcher 3] Sangre en los Adoquines | Blood On The Cobblestones | Algo ha salido mal, tension oscura |
+| `37-despues-de-la-tormenta.mp3` | [Witcher 3] Despues de la Tormenta | After The Storm | Despues de una pelea dura, heridas |
+
 ## Nombres de archivo
 
 Sin espacios ni tildes: los espacios se convierten en `%20` en la URL.
